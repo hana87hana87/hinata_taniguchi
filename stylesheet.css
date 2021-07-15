@@ -16,6 +16,7 @@ li{
     float:left;
     padding-right:50px;
     font-size:30px;
+    text-decoration:none;
     
     
     
@@ -166,6 +167,13 @@ h1{
     
   }
 
+h2{
+    padding-left:475px;
+    padding-top:50px;
+    font-weight:bold;
+    
+}
+
   .insta{
       background-color:gray;
       color:white;
@@ -173,7 +181,7 @@ h1{
       display:block;
       width:80px;
       margin-left:625px;
-      margin-top:50px;
+      margin-top:20px;
       border-radius:4px;
       text-decoration:none;
       margin-bottom:100px;
